@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**ShubhiJain2008/ShubhiJain2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Shubhi Jain 👋
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+🎓 Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+- Java
+- Python
+- HTML, CSS & JavaScript
+
+🚀 Interested in Software Development and Problem Solving
+
+🌱 Learning new technologies every day
+
+## 🛠️ Technologies
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📌 Current Goals
+- Build more projects
+- Improve Data Structures & Algorithms
+- Contribute to Open Source
+
+⭐ Thanks for visiting my profile!
